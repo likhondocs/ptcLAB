@@ -1,0 +1,9 @@
+# These are platforms GitHub supports natively
+github: 
+  - likhondocs
+
+# External donation platforms
+buymeacoffee: likhondocs
+openprofile: likhondocs
+liberapay: likhondocs
+ko_fi: likhondocs
